@@ -1,0 +1,28 @@
+.product-form {
+  width: 100%;
+  max-width: 400px; 
+  margin: auto; 
+}
+
+.form-group {
+  display: flex;
+  align-items: center;
+}
+
+.inline-label {
+  width: 80px; 
+}
+
+.inline-input {
+  max-width: 150px; 
+}
+
+.form-control{
+  box-shadow: none !important;
+}
+
+.error{
+  position: relative;
+  top: -8px;
+  left: 150px;
+}
